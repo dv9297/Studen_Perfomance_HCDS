@@ -1,5 +1,6 @@
 # Student_Perfomance_HCDS
 Report Due Date: May 6, 2022
+
 Linear regression model regarding the correlation between different home lifestyles and student performance in school.
 
 This data analysis is created for the purpose of analyzing how students in different family conditions differ in their grade performance. Our final goal is to find out the correlation between different home lifestyles and student performance in school. We are looking for a correlation regarding quality of life and the impact it has or does not have on students and hoping to research the connection "Does home life have an academic impact on students?"
